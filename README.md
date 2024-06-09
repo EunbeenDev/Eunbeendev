@@ -1,6 +1,6 @@
 ## 🍀 Hi, I'm Zoey
 
-I'm a backend developer with a keen interest in **efficient database** design and **clean code**.
+I'm a backend developer with a keen interest in **efficient database** design and **clean code**. </br>
 I value **communication** highly in all my projects.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ros4312)](https://solved.ac/profile/ros4312)&nbsp;&nbsp;
