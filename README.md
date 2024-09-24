@@ -8,8 +8,6 @@ I value **communication** highly in all my projects.
 
 ![Zoey's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunbeenDev&show_icons=true&theme=react&hide_border=true&icon_color=79ff97&title_color=fff&bg_color=0d1117&text_color=fff&border_color=fff)
 
-[Visit my Velog](https://velog.io/@goldcong/posts)
-
 ## Stacks
 
 ### Languages
