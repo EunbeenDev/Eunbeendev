@@ -4,7 +4,6 @@ I'm a backend developer with a keen interest in **efficient database** design an
 I value **communication** highly in all my projects.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ros4312)](https://solved.ac/profile/ros4312)&nbsp;&nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunbeenDev&count_bg=%23FF95CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Zoey's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunbeenDev&show_icons=true&theme=react&hide_border=true&icon_color=79ff97&title_color=fff&bg_color=0d1117&text_color=fff&border_color=fff)
 
