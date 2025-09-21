@@ -3,8 +3,6 @@
 I'm a backend developer with a keen interest in **efficient database** design and **clean code**. </br>
 I value **communication** highly in all my projects.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ros4312)](https://solved.ac/profile/ros4312)&nbsp;&nbsp;
-
 ![Zoey's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunbeenDev&show_icons=true&theme=react&hide_border=true&icon_color=79ff97&title_color=fff&bg_color=0d1117&text_color=fff&border_color=fff)
 
 ## Stacks
